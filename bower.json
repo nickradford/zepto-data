@@ -1,0 +1,16 @@
+{
+  "name": "zepto-data",
+  "repo": "nickradford/zepto-data",
+  "description": "Shim repository for the Zepto.js data module.",
+  "version": "1.0.0",
+  "main": "zepto.data.js",
+  "scripts": [
+  	"zepto.data.js"
+  ],
+  "files": [
+  	"zepto.data.min.js"
+  ],
+  "dependencies": {
+  	"zepto": "1.0.0"
+  }
+}
